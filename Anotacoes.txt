@@ -19,3 +19,10 @@ cd ..
 Ver conteúdo da pasta
 
 * ls
+
+_______________________________________________________________
+
+Passo a passo para enviar um commit para o repositório com comandos
+
+
+
