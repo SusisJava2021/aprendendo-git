@@ -1,0 +1,21 @@
+Hierarquia de pastas E21
+
+Susana.Alencar
+dev
+
+
+Comandos básicos git e bash
+
+Como navegar entre pastas dentro do gitbash
+
+** entrar na pasta
+
+cd/c/Susana.alencar/dev
+
+** voltar um nível
+
+cd ..
+
+Ver conteúdo da pasta
+
+* ls
